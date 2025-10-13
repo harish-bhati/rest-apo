@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "feature": true,
+    "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
+    "company": "LogiTech"
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "price": 79.99,
+    "feature": false,
+    "description": "Compact mechanical keyboard with RGB backlighting and blue switches.",
+    "company": "LogiTech"
+  },
+  {
+    "name": "USB-C Hub",
+    "price": 34.5,
+    "feature": false,
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0, SD card reader, and PD charging.",
+    "company": "Anker"
+  },
+  {
+    "name": "Noise-Cancelling Headphones",
+    "price": 129.99,
+    "feature": true,
+    "description": "Over-ear headphones with active noise cancellation and 30-hour battery.",
+    "company": "Sony"
+  },
+  {
+    "name": "Smart LED Bulb",
+    "price": 19.99,
+    "feature": false,
+    "description": "Wi-Fi enabled LED bulb with voice control and color customization.",
+    "company": "Philips"
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": 49.99,
+    "feature": true,
+    "description": "Water-resistant fitness tracker with heart rate monitor and step counter.",
+    "company": "Fitbit"
+  },
+  {
+    "name": "Portable SSD 1TB",
+    "price": 89.0,
+    "feature": false,
+    "description": "High-speed external SSD with USB 3.2 interface and compact design.",
+    "company": "Samsung"
+  },
+  {
+    "name": "4K Webcam",
+    "price": 59.95,
+    "feature": true,
+    "description": "Ultra HD webcam with autofocus, wide-angle lens, and built-in microphone.",
+    "company": "LogiTech"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 39.99,
+    "feature": false,
+    "description": "Portable speaker with deep bass, 12-hour playtime, and waterproof design.",
+    "company": "JBL"
+  },
+  {
+    "name": "Laptop Stand",
+    "price": 22.5,
+    "feature": false,
+    "description": "Adjustable aluminum laptop stand for improved ergonomics and airflow.",
+    "company": "Anker"
+  }
+]
